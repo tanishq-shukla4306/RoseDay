@@ -1,0 +1,54 @@
+{
+  "memories": [
+    {
+      "id": 1,
+      "title": "My Beautiful Puchku",
+      "date": "The one who stole my heart",
+      "image": "/images/memory1.jpg",
+      "message": "Every moment with you feels like a dream I never want to wake up from."
+    },
+    {
+      "id": 2,
+      "title": "My Sunshine",
+      "date": "Lighting up my world",
+      "image": "/images/memory2.jpg",
+      "message": "Your smile is the first thing I think of every morning."
+    },
+    {
+      "id": 3,
+      "title": "My Everything",
+      "date": "The reason for my happiness",
+      "image": "/images/memory3.jpg",
+      "message": "You make every ordinary moment extraordinary."
+    },
+    {
+      "id": 4,
+      "title": "My Princess",
+      "date": "Dressed to shine",
+      "image": "/images/memory4.jpg",
+      "message": "You look like a dream come true in every picture."
+    },
+    {
+      "id": 5,
+      "title": "My Traditional Queen",
+      "date": "Elegant and graceful",
+      "image": "/images/memory5.jpg",
+      "message": "Your beauty takes my breath away every single time."
+    },
+    {
+      "id": 6,
+      "title": "My Cutie",
+      "date": "Adorable in every way",
+      "image": "/images/memory6.jpg",
+      "message": "I fall for you more with each passing day."
+    }
+  ],
+  "coupleNames": "Tanu & Puchku",
+  "loveLetter": {
+    "greeting": "To my dear Puchku😚",
+    "body": "Ek pyari si gulab ke liye ek chota sa effort..... mai chahta hun ki aap ek gulab ki tarah hamesha hasti aur khilti rahe ...hamesha khudh rahe aur iss mali ko ek mauka de voh aapki dekhbhaal kr ske aapka khayal rakhe kyun usse bss ye chahiye ki aap hamesha uske sath rhe kabhi murjhaye nai kyunki aap uski zindagi m khushiya lati h aur voh mali mai hee hun.....I want you be the Rose of my life......🌹❤️",
+    "closing": "Aapka Tanu😊"
+  },
+  "heartMessage": "I will be with you forever I promise and i will never change or regret my decisions I promise you",
+  "finalMessage": "Happy Rose Day Budhu😚🌹💖"
+}
