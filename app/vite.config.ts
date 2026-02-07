@@ -6,6 +6,10 @@ import { inspectAttr } from 'kimi-plugin-inspect-react'
 // https://vite.dev/config/
 export default defineConfig({
   base: '/RoseDay/',
+  server: {
+    host: true,
+    port: 5173,
+  },
   plugins: [inspectAttr(), react()],
   resolve: {
     alias: {
